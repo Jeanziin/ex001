@@ -1,4 +1,2 @@
 # ex001
-Jean Freitas
-Silas Matos
-Lucas Silva
+Jean Freitas, Silas Matos, Lucas Silva
